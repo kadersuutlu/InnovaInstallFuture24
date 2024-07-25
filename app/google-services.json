@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "349614739817",
+    "project_id": "innovacasestudydemo-63cde",
+    "storage_bucket": "innovacasestudydemo-63cde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349614739817:android:aad1d512aa5535df9d2df8",
+        "android_client_info": {
+          "package_name": "com.kader.innovaacasestudydemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvFXBo7MeP6Ektk7mOcq6JzYSqCeKNDak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
