@@ -5,4 +5,9 @@
     <string name="login">Login</string>
     <string name="mail_address">Mail Address</string>
     <string name="remember_me">Remember Me</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="add">Add</string>
+    <string name="date_dd_mm_yyyy">Date (dd-MM-YYYY)</string>
+    <string name="amount">Amount</string>
+    <string name="title">Title</string>
 </resources>

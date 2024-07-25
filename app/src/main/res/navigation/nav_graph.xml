@@ -22,10 +22,17 @@
         <action
             android:id="@+id/action_dashboardFragment_to_addTransactionFragment"
             app:destination="@id/addTransactionFragment" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_loginFragment"
+            app:destination="@id/loginFragment" />
     </fragment>
     <fragment
         android:id="@+id/addTransactionFragment"
         android:name="com.kader.innovaacasestudydemo.ui.fragments.AddTransactionFragment"
         android:label="fragment_add_transaction"
-        tools:layout="@layout/fragment_add_transaction" />
+        tools:layout="@layout/fragment_add_transaction" >
+        <action
+            android:id="@+id/action_addTransactionFragment_to_dashboardFragment"
+            app:destination="@id/dashboardFragment" />
+    </fragment>
 </navigation>
